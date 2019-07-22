@@ -1,2 +1,1 @@
-HelloWorld > hw.java
-echo HelloWorld
+HelloWorld 123
